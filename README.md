@@ -1,4 +1,4 @@
-[![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/1607335830_1.jpg)](https://codeforces.com/profile/TimurCvk)
+[![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/photo_2021-06-07_09-02-54.jpg)](https://codeforces.com/profile/TimurCvk)
 
 ## Look to my page in CodeForces
 
