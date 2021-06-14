@@ -1,4 +1,4 @@
-[![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/i.png)](https://github.com/timurchikk)
+[![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/cpp.jpg)](https://github.com/timurchikk)
 
 
 About Me
