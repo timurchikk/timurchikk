@@ -1,8 +1,6 @@
 [![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/cpp.jpg)](https://github.com/timurchikk)
 
 
-About Me
-
 ## Languages and Tools
 ![scratch](https://img.shields.io/badge/-Scratch-090909?style=for-the-badge&logo=scratch)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=0000FF)
