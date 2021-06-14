@@ -1,4 +1,4 @@
-[![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/cpp.jpg)](https://github.com/timurchikk)
+[![Header](https://github.com/timurchikk/timurchikk/blob/main/assets/i.png)](https://github.com/timurchikk)
 
 
 About Me
@@ -28,3 +28,4 @@ About Me
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=darkblue)](https://www.facebook.com/timur.chekirov.5/)
 [![Tg](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/timurchlk)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/timur-chekirov-255277214)
+
