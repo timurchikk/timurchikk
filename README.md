@@ -21,7 +21,7 @@
 
 ## Me at social networks
 
-[![insta](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/timur.cpp)
+[![insta](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/timur.py)
 [![TikTok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=darkgreen)](https://www.tiktok.com/@timmurchlk)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=darkblue)](https://www.facebook.com/timur.chekirov.5/)
 [![Tg](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/timurchlk)
