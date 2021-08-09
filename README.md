@@ -28,3 +28,4 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/timur-chekirov-255277214)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurchikk&show_icons=True&theme=merko)](https://github.com/timurchikk/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurchikk&show_icons=True&theme=merko)](https://github.com/timurchikk/github-readme-stats)
