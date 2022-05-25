@@ -3,17 +3,15 @@
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=0000FF)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
-![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Javascript)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=darkred)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=ffff00)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![GH](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
-[![CodeForces](https://img.shields.io/badge/-CodeForces-090909?style=for-the-badge&logo=codeforces&logoColor=darkgreen)](https://codeforces.com/profile/TimurCvk)
 
 
 ## Me at social networks
