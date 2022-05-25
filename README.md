@@ -2,10 +2,9 @@
 
 
 ## Languages and Tools
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=0000FF)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
