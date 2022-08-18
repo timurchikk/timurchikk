@@ -3,13 +3,13 @@
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
-![CPP](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
+![CPP](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=lightblue)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery&logoColor=green)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-![Elastic Search](https://img.shields.io/badge/-elasticsearch-090909?style=for-the-badge&logo=elasticsearch)
+![Elastic Search](https://img.shields.io/badge/-elasticsearch-090909?style=for-the-badge&logo=elasticsearch&logoColor=green)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=ffff00)
 ![GH](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
