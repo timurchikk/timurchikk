@@ -8,7 +8,7 @@
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery&logoColor=green)
 ![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-![Elastic Search](https://img.shields.io/badge/-elastic-search-090909?style=for-the-badge&logo=elasticsearch)
+![Elastic Search](https://img.shields.io/badge/-elasticsearch-090909?style=for-the-badge&logo=elasticsearch)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=ffff00)
 ![GH](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
