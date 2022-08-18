@@ -3,7 +3,7 @@
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=red)
-![CPP](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c++)
+![CPP](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Celery](https://img.shields.io/badge/-Celery-090909?style=for-the-badge&logo=celery&logoColor=green)
