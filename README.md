@@ -11,7 +11,7 @@
 ![Elastic Search](https://img.shields.io/badge/-elasticsearch-090909?style=for-the-badge&logo=elasticsearch)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=ffff00)
-![GH](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
+![GH](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 
 
 ## Me at social networks
