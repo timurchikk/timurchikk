@@ -23,6 +23,6 @@
 [![Tg](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/timurchlk) -->
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0000FF)](https://www.linkedin.com/in/timur-chekirov-255277214)
 
-[![CodeForces](https://img.shields.io/badge/-codeforces?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/TimurCvk)
+[![Codeforces](https://img.shields.io/badge/-CodeForces-090909?style=for-the-badge&logo=codeforces&logoColor=00000F)](https://codeforces.com/profile/TimurCvk)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timurchikk&show_icons=True&theme=highcontrast)](https://github.com/timurchikk/github-readme-stats)
